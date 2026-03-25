@@ -1,15 +1,15 @@
-📊 Customer Churn Analysis (SQL + Power BI)
-🚀 Project Overview
+## 📊 Customer Churn Analysis (SQL + Power BI)
+# 🚀 Project Overview
 
 This project focuses on analyzing customer churn behavior using SQL and Power BI.
 The goal is to identify key factors that lead to customer churn and provide insights to improve customer retention.
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 SQL (MySQL)
 Power BI
 Excel / CSV Dataset
 
-🔄 Project Workflow
+# 🔄 Project Workflow
 Imported dataset into MySQL database
 Performed data analysis using SQL queries
 Identified churn patterns and key metrics
@@ -20,11 +20,11 @@ Total Customers
 Churn Customers
 Churn Rate (%)
 Average Monthly Charges
-📈 Dashboard Preview
+## 📈 Dashboard Preview
 
-(Add your dashboard screenshot here)
+(https://github.com/SourabhBhoir/sql-projects/blob/main/Telecom_Churn_Analysis/PowerBI/Dashboard.png)
 
-🧠 Key Insights
+# 🧠 Key Insights
 Customers with month-to-month contracts have higher churn
 Customers with high monthly charges are more likely to leave
 Customers with low tenure (new users) are at higher risk
